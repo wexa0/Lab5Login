@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lab5Login</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_login_actvity">LoginActvity</string>
+    <string name="title_activity_home_actvity">HomeActvity</string>
+    <string name="title_activity_home">HomeActivity</string>
 </resources>
